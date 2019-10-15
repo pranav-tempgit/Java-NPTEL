@@ -5,10 +5,10 @@ public class Question5 {
               return 1;
            if (n <= 0) 
                 return 0;   
-           //copy-paste the following code segment
+           //copy-paste starts here
            else
               return ((n*2)-1)+sum_odd_n(n-1);
-           //copy-paste the following code segment   
+           //copy-paste ends here 
               }
            
    public static void main(String[] args) {  
