@@ -1,5 +1,5 @@
 # Java-NPTEL
-NPTEL Java Solutions
+NPTEL Java Solutions : Pranav N
 
 ## Update - 16 October 2019
 ### Check out the Java NPTEL Week 12 Quiz/Programming Assignment Solutions.
