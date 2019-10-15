@@ -11,7 +11,7 @@ public class Child extends Parent {
         
     }
     
-    //copy-paste the following code segment
+    //copy-paste starts here
     public static void main(String[] args) {
         
      
